@@ -1,0 +1,7 @@
+@reference "tailwindcss/theme.css";
+
+foo {
+  @variant md {
+    bar: baz;
+  }
+}

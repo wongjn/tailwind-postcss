@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "postcss input.css -o output.css"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.1",
+    "postcss": "^8.5.1",
+    "postcss-cli": "^11.0.0",
+    "tailwindcss": "^4.0.1"
+  }
+}
